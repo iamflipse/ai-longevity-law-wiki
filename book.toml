@@ -1,0 +1,7 @@
+[book]
+title = "AI Longevity & International Law Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling Truby & Kantiana (2026) J Law Med Ethics 54(3):377-383 (doi 10.1017/jme.2026.10262) — AI-enabled longevity, the emerging right to extended life, and the international legal frameworks that condition it."
+
+[build]
+charset = "utf-8"
